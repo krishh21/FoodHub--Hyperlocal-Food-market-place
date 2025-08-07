@@ -1,0 +1,6 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "buildCommand": "parcel build index.html",     // Adjust path if needed
+  "outputDirectory": "dist"
+}
