@@ -1,5 +1,0 @@
-"scripts": {
-  "start": "parcel FoodHub/index.html",
-  "test": "jest",
-  "build": "parcel build FoodHub/index.html"
-}
