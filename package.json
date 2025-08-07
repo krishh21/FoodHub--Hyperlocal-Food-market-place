@@ -1,7 +1,7 @@
 {
   "name": "namste-reactpractice",
   "version": "1.0.0",
-  "description": "Its an namste react practice ",
+  "description": "Its an namste react practice",
   "keywords": [],
   "homepage": "https://github.com/krishh21/Namste-react#readme",
   "bugs": {
@@ -16,6 +16,7 @@
   "type": "commonjs",
   "scripts": {
     "start": "parcel FoodHub/index.html",
+    "build": "parcel build FoodHub/index.html --dist-dir dist",
     "test": "jest"
   },
   "devDependencies": {
